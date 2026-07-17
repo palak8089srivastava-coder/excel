@@ -1,0 +1,12 @@
+
+Order ID,Order Date,Ship Date,Ship Mode
+ORD001,01-Jan-24,03-Jan-24,Standard Class
+ORD002,02-Jan-24,05-Jan-24,Second Class
+ORD003,04-Jan-24,06-Jan-24,Standard Class
+ORD004,05-Jan-24,08-Jan-24,First Class
+ORD005,07-Jan-24,09-Jan-24,Standard Class
+ORD006,08-Jan-24,10-Jan-24,Same Day
+ORD007,10-Jan-24,12-Jan-24,Standard Class
+ORD008,12-Jan-24,14-Jan-24,First Class
+ORD009,15-Jan-24,17-Jan-24,Standard Class
+ORD010,18-Jan-24,20-Jan-24,Second Class
