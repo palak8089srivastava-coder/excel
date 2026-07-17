@@ -1,0 +1,11 @@
+Customer ID,Customer Name,Segment,Region,State,City
+C001,Amit Sharma,Consumer,North,Delhi,Delhi
+C002,Priya Singh,Corporate,West,Maharashtra,Mumbai
+C003,Rahul Verma,Home Office,South,Karnataka,Bangalore
+C004,Neha Gupta,Consumer,East,West Bengal,Kolkata
+C005,Arjun Mehta,Consumer,North,Punjab,Ludhiana
+C006,Sneha Kapoor,Corporate,West,Gujarat,Ahmedabad
+C007,Karan Malhotra,Consumer,South,Telangana,Hyderabad
+C008,Pooja Nair,Home Office,East,Odisha,Bhubaneswar
+C009,Vikram Joshi,Consumer,West,Rajasthan,Jaipur
+C010,Riya Das,Corporate,North,Uttar Pradesh,Lucknow
